@@ -17,6 +17,12 @@
         
 }
 
+iframe {
+    margin: 0 auto;
+    background-color: #777;
+    display:block;
+}
+
 
 #landingpage1 {
     overflow: scroll;
