@@ -48,6 +48,66 @@ iframe {
     
 }
 
+#SponsorsHeader {
+    font-family: var(--main-font);
+    font-size: 25pt;
+    color: black;
+    text-align: center;
+    font-weight: 2500;
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-width: 1px;
+    column-rule-color: lightblue;
+    column-rule: 1px solid lightblue;
+  
+}
+
+#SponsorsHeaderCompany {
+    font-family: var(--main-font);
+    font-size: 25pt;
+    color: black;
+    text-align: center;
+    font-weight: 2500;
+
+  
+}
+
+#SponsorsHeaderDescrip {
+    font-family: var(--main-font);
+    font-size: 25pt;
+    color: black;
+    text-align: center;
+    font-weight: 2500;
+
+  
+}
+
+#SponsorsHeaderLogo {
+    font-family: var(--main-font);
+    font-size: 25pt;
+    color: black;
+    text-align: center;
+    font-weight: 2500;
+
+  
+}
+
+#Sponsors {
+    font-family: var(--main-font);
+    font-size: 5pt;
+    color: black;
+    text-align: center;
+    font-weight: 2500;
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-width: 1px;
+    column-rule-color: lightblue;
+    column-rule: 1px solid lightblue;
+  
+}
+
 #author {
     font-family: var(--main-font);    
     font-size: 12pt;
