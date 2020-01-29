@@ -65,19 +65,27 @@ iframe {
 
 #SponsorsHeaderCompany {
     font-family: var(--main-font);
+    font-size: 20pt;
+    color: black;
+    text-align: center;
+    font-weight: 2500;
+    column-span: all;
+}
+
+#SponsLevel {
+    font-family: var(--main-font);
     font-size: 25pt;
     color: black;
     text-align: center;
     font-weight: 2500;
-
   
 }
 
 #SponsorsHeaderDescrip {
     font-family: var(--main-font);
-    font-size: 25pt;
+    font-size: 20pt;
     color: black;
-    text-align: center;
+    text-align: left;
     font-weight: 2500;
 
   
@@ -85,7 +93,7 @@ iframe {
 
 #SponsorsHeaderLogo {
     font-family: var(--main-font);
-    font-size: 25pt;
+    font-size: 20pt;
     color: black;
     text-align: center;
     font-weight: 2500;
