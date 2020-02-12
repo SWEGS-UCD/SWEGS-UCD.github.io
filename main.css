@@ -81,6 +81,16 @@ iframe {
   
 }
 
+#header-text{
+    height:100px;
+    font-family: var(--main-font);
+    font-size: 20pt;
+    color: black;
+    text-align: center;
+    font-weight: 2000;
+   
+ }
+
 #SponsorsHeaderDescrip {
     font-family: var(--main-font);
     font-size: 20pt;
