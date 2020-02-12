@@ -424,7 +424,7 @@ li a:hover, nav li a:active {
 }
 
 .row_meet_the_team {
-    text-align: center;
+    display: inline-block;
 }
 
  Display the columns below each other instead of side by side on small screens 
