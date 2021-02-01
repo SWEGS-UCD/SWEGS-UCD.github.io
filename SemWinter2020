@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <!--This is a comment-->
+            <meta content='width=device-width, initial-scale=1' name='viewport'/>
+            
+            <title>SWEGS</title>
+            <link 
+                  rel="stylesheet" 
+                  type="text/css" 
+                  href="main.css">
+            
+            <link 
+                  href="https://fonts.googleapis.com/css?family=Montserrat"
+                  rel="stylesheet">
+            
+            <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
+        </head>
+        
+        <body id="landingpage">
+    
+<header role="banner" id="top">
+<div id="header-text">
+    <h1><strong id="top-title">SWEGS</strong></h1>
+    <p id="slogan">Society of Water and Environmental Graduate Students</p>
+</div>      
+            
+            
+<nav>
+  <ul>
+      <li><a href="index.html">About</a></li>
+      <li><a href="Resources.html">Resources</a></li>
+      <li><a href="Calendar.html">Calendar</a></li>
+      <li><a href="Social.html">Social</a></li>
+      <li><a href="Blog.html">Blog</a></li>
+      <li><a href="Showcase.html">Showcase</a></li>
+  </ul>
+</nav>
+            
+</header>
+
+        </body> 
+        
+        <div id="wrapper1">
+            
+            <ul>
+                <li>10/6 Science Cafe</li>
+                <li>10/13 Graduate Student Issues - How to Find & Secure Funding in Graduate School</li>
+                <li>10/20 Dr. Orianna Bretschger - From Lab to Product: An Unexpected Jouney </li>
+                <li>10/27 Graduate Student Issues - Finding Balance: A Grad Student Panel </li>
+                <li>11/3 Prof. Jasquelin Pena </li>
+                <li>11/10 Graduate Student Issues - UndocuAdvocate Program for Educators </li>
+                <li>11/17 Graduate Student/Post doc presentations - Madison, Gabby Black, and Zoe </li>
+                <li>11/24 Graduate Student Issues - Overcoming Imposter Syndrome </li>
+                <li>12/1 Dr. Kaveh Madani - Wicked Human-Water Problems: Can we solve one problem without creating new ones? </li>
+                <li>12/8 Dr. Dane Behrens, Jessica Hazard, and Prof. David E. Rosenberg - EWR Alumni Panel: Careers Postgraduate School </li>
+            <ul>
+                
+        </div>
+                       
+</html>
